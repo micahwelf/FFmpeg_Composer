@@ -3,7 +3,7 @@ GUI interactive command-line composition and execution for the stock FFmpeg tool
 
 To outline what I want for version 1.x of this application:
 
-    - A GUI that compiles and works on all significant operating systems (Win10, Linux, MacOS, Android, FreeBSD -!-) 
+  - A GUI that compiles and works on all significant operating systems (Win10, Linux, MacOS, Android, FreeBSD -!-) 
     
     - An interactive command string with drop-down lists for setting/replacing indivdual options.
     
